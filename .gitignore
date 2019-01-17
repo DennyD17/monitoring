@@ -1,0 +1,9 @@
+*.pyc
+*.log
+docs
+logs/*
+settings
+running_logs
+xml
+.idea/
+venv/
